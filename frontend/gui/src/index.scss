@@ -1,0 +1,12 @@
+.App {
+    .container {
+        display: flex;
+        flex-direction: column;
+
+        .navbar {
+            justify-content: center;
+
+            h2 {}
+        }
+    }
+}
